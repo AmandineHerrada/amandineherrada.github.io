@@ -36,6 +36,9 @@ interests:
   - Ecophysiology
   - Ecotoxicology
   - Biodemography
+  - Oxidative stress
+  - Toxic metals
+  - Terrestrial mammals
 
 education:
   - area: PhD
@@ -169,4 +172,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My thesis lies at the intersection of ecology, toxicology, and physiology. I am particularly focused on understanding how low-level and long-term exposure to environmental contaminants, especially toxic metals, affects redox homeostasis and survival in long-lived wild mammals.
+
+I combine field data from individually monitored populations, physiological assays, and statistical modeling to assess the long-term impacts of pollution on wildlife health and fitness.
+
+My main study species is the roe deer (*Capreolus capreolus*), with a focus on two intensively monitored populations in France.
