@@ -32,7 +32,6 @@ profiles:
     url: https://www.linkedin.com/AmandineHerrada
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/research-gate
     url: https://www.researchgate.net/profile/Amandine-Herrada
   - icon: academicons/orcid
     url: https://orcid.org/0009-0000-7279-213X
