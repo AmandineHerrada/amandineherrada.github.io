@@ -38,13 +38,13 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ecophysiology
+  - Ecotoxicology
+  - Biodemography
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD
+    institution: University Claude Bernard Lyon 1
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
