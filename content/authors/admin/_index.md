@@ -24,18 +24,18 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:amandine.herrada@univ-lyon1.fr'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/amandineherrada
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/AmandineHerrada
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
+  - icon: academicons/research-gate
+    url: https://www.researchgate.net/profile/Amandine-Herrada
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0000-7279-213X
 
 interests:
   - Ecophysiology
