@@ -29,7 +29,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/amandineherrada
   - icon: brands/linkedin
-    url: https://www.linkedin.com/AmandineHerrada
+    url: https://www.linkedin.com/amandine-herrada
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
     url: https://www.researchgate.net/profile/Amandine-Herrada
