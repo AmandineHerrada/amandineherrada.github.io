@@ -15,11 +15,6 @@ highlight_name: true
 # Role/position/tagline
 role: PhD
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -44,18 +39,18 @@ interests:
 
 education:
   - area: PhD
-    institution: University Claude Bernard Lyon 1
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Biometry and Evolutionary Biology Laboratory, University Claude Bernard Lyon 1
+    date_start: 2022-03-10
+    date_end: 2025-02-10
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Impact of exposure to toxic metals on physiology and survival in a long-lived mammal, the roe deer_. Supervised by [Dr Pauline Vuarin](https://www.researchgate.net/profile/Pauline-Vuarin) and [Dr Jean-Michel Gaillard](https://www.researchgate.net/profile/Jean-Michel-Gaillard).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: International Master in Biodiversity, Ecology and Evolution
+    institution: Université Claude Bernard Lyon 1
+    date_start: 2022-09-01
+    date_end: 2023-06-30
     summary: |
       GPA: 3.8/4.0
 
