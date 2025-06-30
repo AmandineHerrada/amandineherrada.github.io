@@ -73,13 +73,13 @@ education:
     date_end: 2018-06-30
 work:
   - position: PhD student
-    company name: Biometry and Evolutionary Biology Laboratory (LBBE), University Claude Bernard Lyon 1, Lyon
+    company_name: Biometry and Evolutionary Biology Laboratory (LBBE), University Claude Bernard Lyon 1, Lyon
     company_url: 'https://lbbe-web.univ-lyon1.fr/fr'
     company_logo: 'LBBE_logo.svg'
     date_start: 2022-10-03
     date_end: 2025-10-02
     summary: |
-      Thesis on _Impact of exposure to toxic metals on physiology and survival in a long-lived mammal, the roe deer_. Supervised by [Dr Pauline Vuarin](https://www.researchgate.net/profile/Pauline-Vuarin) and [Dr Jean-Michel Gaillard](https://www.researchgate.net/profile/Jean-Michel-Gaillard).
+      Thesis on the _Impact of exposure to toxic metals on physiology and survival in a long-lived mammal, the roe deer_. Supervised by [Dr Pauline Vuarin](https://www.researchgate.net/profile/Pauline-Vuarin) and [Dr Jean-Michel Gaillard](https://www.researchgate.net/profile/Jean-Michel-Gaillard).
     button:
       text: 'Read Thesis'
       url: 'https://hal.com'
