@@ -73,7 +73,7 @@ education:
     date_end: 2018-06-30
 work:
   - position: PhD student
-    company_name: Biometry and Evolutionary Biology Laboratory (LBBE), University Claude Bernard Lyon 1, Lyon
+    company_name: Biometry and Evolutionary Biology Laboratory (LBBE), UMR5558, University Claude Bernard Lyon 1, Lyon
     company_url: https://lbbe-web.univ-lyon1.fr/fr
     company_logo: LBBE_logo.svg
     date_start: 2022-10-03
@@ -84,13 +84,45 @@ work:
       text: 'Read Thesis'
       url: 'https://hal.com'
   - position: M2 internship
-    company_name: Biometry and Evolutionary Biology Laboratory (LBBE), University Claude Bernard Lyon 1, Lyon
+    company_name: Biometry and Evolutionary Biology Laboratory (LBBE), UMR 5558, University Claude Bernard Lyon 1, Lyon
     company_url: ''
     company_logo: ''
     date_start: 2022-01-01
     date_end: 2022-06-30
     summary: |
       Assays and statistical analyses as part of a study on the influence of toxic metal exposure on physiology and ageing in roe deer.
+  - position: Research Assistant
+    company_name: Population, Environment, Development Laboratory (LPED), UMR-151-AMU-IRD, Marseille
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-04-01
+    date_end: 2021-07-31
+    summary: |
+      Guidebook for the recognition of spontaneous urban flora in Marseille (*not public*).
+  - position: M1 Internship
+    company_name: Population, Environment, Development Laboratory (LPED), UMR-151-AMU-IRD, Marseille
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-04-01
+    date_end: 2021-07-31
+    summary: |
+      Sampling, sorting, identification and statistical analyses on terrestrial gastropods in urban parks as part of a research project on the establishment of an urban biodiversity indicator.
+  - position: Voluntary internship
+    company_name: Population, Environment, Development Laboratory (LPED), UMR-151-AMU-IRD, Marseille
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-06-01
+    date_end: 2020-06-31
+    summary: |
+      Guidebook for the recognition of rhopaloceran lepidoptera present on the green roof of the Lacédémone reservoir (*available on LinkedIn*)
+  - position: IUT internship
+    company_name: Molecular Mechanisms in Neurodegenerative Dementia Laboratory (MMDN), U1198-EPHE-UM-Inserm, Montpellier
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-04-01
+    date_end: 2018-06-31
+    summary: |
+      Practice in histology, immunostaining and cell culture for a scientific research project on Alzheimer’s disease.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
