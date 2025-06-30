@@ -98,7 +98,7 @@ work:
     date_start: 2021-04-01
     date_end: 2021-07-31
     summary: |
-      'Guidebook for the recognition of spontaneous urban flora in Marseille (*not public*).'
+      Guidebook for the recognition of spontaneous urban flora in Marseille (*not public*).
   - position: M1 Internship
     company_name: Population, Environment, Development Laboratory (LPED), UMR-151-AMU-IRD, Marseille
     company_url: ''
@@ -106,7 +106,7 @@ work:
     date_start: 2021-04-01
     date_end: 2021-07-31
     summary: |
-      'Sampling, sorting, identification and statistical analyses on terrestrial gastropods in urban parks as part of a research project on the establishment of an urban biodiversity indicator.'
+      Sampling, sorting, identification and statistical analyses on terrestrial gastropods in urban parks as part of a research project on the establishment of an urban biodiversity indicator.
   - position: Voluntary internship
     company_name: Population, Environment, Development Laboratory (LPED), UMR-151-AMU-IRD, Marseille
     company_url: ''
@@ -114,7 +114,7 @@ work:
     date_start: 2020-06-01
     date_end: 2020-06-30
     summary: |
-      'Guidebook for the recognition of rhopaloceran lepidoptera present on the green roof of the Lacédémone reservoir (*available on LinkedIn*)'
+      Guidebook for the recognition of rhopaloceran lepidoptera present on the green roof of the Lacédémone reservoir (*available on LinkedIn*)
   - position: IUT internship
     company_name: Molecular Mechanisms in Neurodegenerative Dementia Laboratory (MMDN), U1198-EPHE-UM-Inserm, Montpellier
     company_url: ''
@@ -122,7 +122,7 @@ work:
     date_start: 2018-04-01
     date_end: 2018-06-30
     summary: |
-      'Practice in histology, immunostaining and cell culture for a scientific research project on Alzheimer’s disease.'
+      Practice in histology, immunostaining and cell culture for a scientific research project on Alzheimer’s disease.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
