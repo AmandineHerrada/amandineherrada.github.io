@@ -139,6 +139,7 @@ languages:
   - name: German
     percent: 80
 
+---
 ## About Me
 
 My thesis lies at the intersection of ecology, toxicology, and physiology. I am particularly focused on understanding how low-level and long-term exposure to environmental contaminants, especially toxic metals, affects redox homeostasis and survival in long-lived wild mammals.
