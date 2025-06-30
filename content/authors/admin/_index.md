@@ -103,16 +103,20 @@ skills:
       - name: Pack Office
         description: ''
         icon: chart-bar
-      - name: MOOC
-        description: 'Certification: MOOC Nature for City LIFE & Scientific integrity'
-        icon: Unmute Icon
+      - name: Field
+        description: Roe deer capture/marking, blood sampling (animal experimental designer), ecography, telemetry
+        icon: forest
+      - name: Communication
+        description: Representative of the lab's doctoral students, organizer of student seminars, Déclics, Festival 'Les Echappées Inattendues' of the CNRS
+      - name: MOOC Certifications
+        description: MOOC Nature for City LIFE, Scientific integrity
+        icon: unmute
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 60
         icon: person-simple-walk
       - name: Cats
         description: ''
