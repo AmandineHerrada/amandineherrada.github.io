@@ -41,15 +41,6 @@ interests:
   - Terrestrial mammals
 
 education:
-  - area: PhD
-    institution: Biometry and Evolutionary Biology Laboratory, University Claude Bernard Lyon 1, Lyon
-    date_start: 2022-10-03
-    date_end: 2025-10-02
-    summary: |
-      Thesis on _Impact of exposure to toxic metals on physiology and survival in a long-lived mammal, the roe deer_. Supervised by [Dr Pauline Vuarin](https://www.researchgate.net/profile/Pauline-Vuarin) and [Dr Jean-Michel Gaillard](https://www.researchgate.net/profile/Jean-Michel-Gaillard).
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: International Master in Biodiversity, Ecology and Evolution
     institution: University Claude Bernard Lyon 1, Lyon
     date_start: 2020-09-01
@@ -74,16 +65,25 @@ education:
     date_end: 2019-06-30
   - area: University Diploma in Sustainable Development and Social Responsibility
     institution: Science Faculty, Montpellier
-    date: 2018
+    date_start: 2018-01-01
+    date_end: 2018-06-30
+  - area: University Diploma of Technology in Biological Engineering, Biochemical and Biological Analysis option
+    institution: University Institute of Technology, Montpellier
+    date_start: 2016-09-01
+    date_end: 2018-06-30
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: PhD student
+    institution: Biometry and Evolutionary Biology Laboratory, University Claude Bernard Lyon 1, Lyon
+    company_url: 'https://lbbe-web.univ-lyon1.fr/fr'
+    company_logo: 'LBBE_logo.svg'
+    date_start: 2022-10-03
+    date_end: 2025-10-02
+    summary: |
+      Thesis on _Impact of exposure to toxic metals on physiology and survival in a long-lived mammal, the roe deer_. Supervised by [Dr Pauline Vuarin](https://www.researchgate.net/profile/Pauline-Vuarin) and [Dr Jean-Michel Gaillard](https://www.researchgate.net/profile/Jean-Michel-Gaillard).
+    button:
+      text: 'Read Thesis'
+      url: 'https://hal.com'
     summary: |2-
-      Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -94,7 +94,6 @@ work:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
