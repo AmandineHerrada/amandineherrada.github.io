@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD
+role: PhD student
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -73,7 +73,7 @@ education:
     date_end: 2018-06-30
 work:
   - position: PhD student
-    institution: Biometry and Evolutionary Biology Laboratory, University Claude Bernard Lyon 1, Lyon
+    company name: Biometry and Evolutionary Biology Laboratory (LBBE), University Claude Bernard Lyon 1, Lyon
     company_url: 'https://lbbe-web.univ-lyon1.fr/fr'
     company_logo: 'LBBE_logo.svg'
     date_start: 2022-10-03
@@ -83,20 +83,14 @@ work:
     button:
       text: 'Read Thesis'
       url: 'https://hal.com'
-    summary: |2-
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: M2 internship
+    company_name: Biometry and Evolutionary Biology Laboratory (LBBE), University Claude Bernard Lyon 1, Lyon
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-01-01
+    date_end: 2022-06-30
     summary: |
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Assays and statistical analyses as part of a study on the influence of toxic metal exposure on physiology and ageing in roe deer.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
