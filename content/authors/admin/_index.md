@@ -68,6 +68,13 @@ education:
       - Ecosystem functioning
       - Urban ecology
       - Sociology
+  - area: Preparatory class for agronomic and veterinary competitions
+    institution: Lycée Frédéric Bazille, Montpellier
+    date_start: 2018-09-01
+    date_end: 2019-06-30
+  - area: University Diploma in Sustainable Development and Social Responsibility
+    institution: Science Faculty, Montpellier
+    date: 2018
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
