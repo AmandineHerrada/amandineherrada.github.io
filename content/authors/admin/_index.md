@@ -105,12 +105,12 @@ skills:
         icon: chart-bar
       - name: Field
         description: Roe deer capture/marking, blood sampling (animal experimental designer), ecography, telemetry
-        icon: forest
+        icon: tree
       - name: Communication
         description: Representative of the lab's doctoral students, organizer of student seminars, Déclics, Festival 'Les Echappées Inattendues' of the CNRS
       - name: MOOC Certifications
         description: MOOC Nature for City LIFE, Scientific integrity
-        icon: unmute
+        icon: chalkboard-teacher
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -118,14 +118,15 @@ skills:
       - name: Hiking
         description: ''
         icon: person-simple-walk
-      - name: Cats
+      - name: Running
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        icon: person-simple-run
+      - name: Tango
         description: ''
-        percent: 80
-        icon: camera
+        icon: disco-ball
+      - name: Ski
+        description: ''
+        icon: person-simple-ski
 
 languages:
   - name: English
