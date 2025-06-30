@@ -74,8 +74,8 @@ education:
 work:
   - position: PhD student
     company_name: Biometry and Evolutionary Biology Laboratory (LBBE), University Claude Bernard Lyon 1, Lyon
-    company_url: 'https://lbbe-web.univ-lyon1.fr/fr'
-    company_logo: 'LBBE_logo.svg'
+    company_url: https://lbbe-web.univ-lyon1.fr/fr
+    company_logo: LBBE_logo.svg
     date_start: 2022-10-03
     date_end: 2025-10-02
     summary: |
@@ -97,18 +97,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: R
+        description: 'lme4, ade4, RMark, ggplot2...'
         icon: code-bracket
-      - name: Data Science
+      - name: Pack Office
         description: ''
-        percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: MOOC
+        description: 'Certification: MOOC Nature for City LIFE & Scientific integrity'
+        icon: Unmute Icon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
