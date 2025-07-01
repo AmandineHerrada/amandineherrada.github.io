@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Minor and trace element concentrations in roe deer hair: A non-invasive method to define reference values in wildlife."
 authors:
 - admin
-- Robert Ford
+- Léa Bariod
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2024"
+doi: "https://doi.org/10.1016/j.ecolind.2024.111720"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Most chemical elements are crucial for life maintenance, but the intake of non-essential elements or inadequate concentrations of essential ones can have major consequences on wildlife health. However, concentrations of minor and trace elements remain largely unknown in free-ranging animals. This study aimed to establish the first reference values for 22 essential (Ca, Co, Cr, Cu, Fe, K, Mg, Mn, Mo, Na, Ni, Se, Zn) and non-essential (Al, As, Cd, Hg, Pb, Sb, Sr, Ti, Tl) elements in roe deer hair (*Capreolus capreolus*), to assess the degree of covariation between elements, and to investigate how individual characteristics and environmental context influence minor and trace element profiles. To do so, 758 hair samples from 542 individuals were collected between 2016 and 2019 in five roe deer populations (i.e. Ain, Chizé, Châteauvillain-Arc-en-Barrois, Jura and Trois-Fontaines) inhabiting contrasted habitats in France. Compared to the scarce literature on minor and trace elements in roe deer hair, concentrations were generally lower, and correlations between elements were mostly positive. Element concentrations were also heterogeneously distributed among populations, with overall greater heterogeneity in two (i.e. Jura and Châteauvillain-Arc-en-Barrois) of the five populations, which could be explained by their specific environmental characteristics (e.g. vegetation, climate, altitude). Overall, minor and trace element concentrations did not differ according to age and sex. Further studies on element bioavailability are needed to clarify whether the observed heterogeneity of element concentrations in roe deer hair is primarily driven by individual or by geographical characteristics.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
