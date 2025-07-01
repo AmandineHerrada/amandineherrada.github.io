@@ -80,6 +80,7 @@ work:
     date_end: 2025-10-02
     summary: |
       Thesis on the _Impact of exposure to toxic metals on physiology and survival in a long-lived mammal, the roe deer_. Supervised by [Dr Pauline Vuarin](https://www.researchgate.net/profile/Pauline-Vuarin) and [Dr Jean-Michel Gaillard](https://www.researchgate.net/profile/Jean-Michel-Gaillard).
+      I also teach biostatistics and mice anatomy for students in their first and second years of higher education (64h/year).
     button:
       text: 'Read Thesis'
       url: 'https://hal.com'
