@@ -47,6 +47,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    id: talks
+    content:
+      title: Talks and science dissemination
+      text: ""
+      filters:
+        folders:
+          - talks
+        exclude_featured: false
+    design:
+      view: event
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
