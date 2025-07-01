@@ -2,7 +2,23 @@
 title: "Minor and trace element concentrations in roe deer hair: A non-invasive method to define reference values in wildlife"
 authors:
 - admin
-- '*et al.*'
+- Léa Bariod
+- Sonia Saïd
+- Benjamin Rey
+- Hervé Bidault
+- Yoann Bollet
+- Stéphane Chabot
+- François Débias
+- Jeanne Duhayer
+- Sylvia Pardonnet
+- Maryline Pellerin
+- Jean-Baptiste Fanjul
+- Cyril Rousset
+- Clémentine Fritsch
+- Nadia Crini
+- Renaud Scheifler
+- Gilles Bourgoin
+- Pauline Vuarin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
