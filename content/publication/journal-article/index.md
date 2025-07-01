@@ -6,7 +6,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2024"
+date: "2024-02-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.ecolind.2024.111720"
 
 # Schedule page publish date (NOT publication's date).
