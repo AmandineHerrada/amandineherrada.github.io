@@ -1,12 +1,12 @@
 ---
-title: Disseminating science
+title: Les Echappées Inattendues
 
-event: Les Echappées Inattendues
+event: Disseminating science
 event_url: https://www.cnrs.fr/fr/les-echappees-inattendues
 
 location: Croix-Rousse, Lyon
 
-summary: Speed-dating between scientists and the general public.
+summary: Speed-dating between scientists and the general public. During the course of an afternoon, come and talk to children and adults about your research.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

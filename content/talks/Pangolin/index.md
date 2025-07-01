@@ -8,7 +8,7 @@ summary: A post on my research from the Pangolin Project
 abstract: 'This independent French scientific media is held by young female researchers who post about biodiversity, ecology, feminism and climate. My profile had the honour to be featured on 19 May 2025.'
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-05-19T00:00:00Z'
 
 authors:
   - admin
