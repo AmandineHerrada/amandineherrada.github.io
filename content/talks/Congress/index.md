@@ -7,10 +7,10 @@ location: Europe
 
 summary: All past and coming conferences where I present a poster or slides.
 abstract: 'All past and coming conferences where I present a poster or slides:
-- 15th seminar in Ecology & Behavior, Strasbourg 2022 (Poster) -
-- CEPA6, Tours 2023 (Oral presentation) -
-- NSO, Lund 2024 (Oral presentation) -
-- SFE², Lyon 2024 (Oral presentation) -
+- 15th seminar in Ecology & Behavior, Strasbourg 2022 (Poster)
+- CEPA6, Tours 2023 (Oral presentation)
+- NSO, Lund 2024 (Oral presentation)
+- SFE², Lyon 2024 (Oral presentation)
 - SEB, Antwerp 2025 (Oral presentation) to come'
 
 # Talk start and end times.
