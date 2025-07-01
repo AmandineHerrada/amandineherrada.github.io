@@ -11,10 +11,10 @@ en:
 # Uncomment the lines below to configure your website in a second language.
 fr:
   languageCode: fr
-  contentDir: content/zh
-  title: Chinese website title...
+  contentDir: content/fr
+  title: French website title...
   params:
-    description: Site description in Chinese...
+    description: Site description in French...
   menu:
     main:
       - name: FR
