@@ -6,17 +6,17 @@ event: Conferences
 location: Europe
 
 summary: All past and coming conferences where I present a poster or slides.
-abstract: 'All past and coming conferences where I present a poster or slides:\r
-- 15th seminar in Ecology & Behavior, Strasbourg 2022 (Poster)\r\n
-- CEPA6, Tours 2023 (Oral presentation)\n
-- NSO, Lund 2024 (Oral presentation)
-- SFE², Lyon 2024 (Oral presentation)
+abstract: 'All past and coming conferences where I present a poster or slides:
+- 15th seminar in Ecology & Behavior, Strasbourg 2022 (Poster) -
+- CEPA6, Tours 2023 (Oral presentation) -
+- NSO, Lund 2024 (Oral presentation) -
+- SFE², Lyon 2024 (Oral presentation) -
 - SEB, Antwerp 2025 (Oral presentation) to come'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-03-21T00:00:00Z'
-date_end: ''
+date: 'since 2022'
+#date_end: ''
 all_day: true
 
 authors:
