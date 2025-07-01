@@ -1,7 +1,7 @@
 ---
 title: Field work
 
-event: An example of roe deer manipulation
+event: An example of roe deer manipulation by JHM
 event_url: https://jhm.fr/on-compte-les-chevreuils-pres-de-saint-dizier/
 
 location: Trois-Fontaines

@@ -1,7 +1,7 @@
 ---
 title: Les Echappées Inattendues
 
-event: Disseminating science
+event: Les Echappées Inattendues
 event_url: https://www.cnrs.fr/fr/les-echappees-inattendues
 
 location: Croix-Rousse, Lyon
