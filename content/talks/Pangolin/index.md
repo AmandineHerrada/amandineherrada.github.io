@@ -1,7 +1,7 @@
 ---
-title: Disseminating science
+title: Pangolin Project Instagram post
 
-event: Pangolin Project Instagram post
+event: Disseminating science
 event_url: https://www.instagram.com/projet_pangolin/
 
 summary: A post on my research from the Pangolin Project

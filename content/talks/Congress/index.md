@@ -1,15 +1,17 @@
 ---
 title: Conferences
 
-event:
+event: Conferences
+
+location: Europe
+
+summary: All past and coming conferences where I present a poster or slides.
+abstract: '
 - 15th seminar in Ecology & Behavior, Strasbourg 2022 (Poster)
 - CEPA6, Tours 2023 (Oral presentation)
 - NSO, Lund 2024 (Oral presentation)
 - SFE², Lyon 2024 (Oral presentation)
-- SEB, Antwerp 2025 (Oral presentation) to come
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+- SEB, Antwerp 2025 (Oral presentation) to come'
 
 authors:
   - admin
