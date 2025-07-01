@@ -1,7 +1,7 @@
 ---
 title: Conferences
 
-event: Les Echappées Inattendues
+event: JHMcontent/event
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ
