@@ -1,13 +1,29 @@
 ---
-title: "An example journal article"
+title: "Minor and trace element concentrations in roe deer hair: A non-invasive method to define reference values in wildlife"
 authors:
 - admin
-- Robert Ford
+- Léa Bariod
+- Sonia Saïd
+- Benjamin Rey
+- Hervé Bidault
+- Yoann Bollet
+- Stéphane Chabot
+- François Débias
+- Jeanne Duhayer
+- Sylvia Pardonnet
+- Maryline Pellerin
+- Jean-Baptiste Fanjul
+- Cyril Rousset
+- Clémentine Fritsch
+- Nadia Crini
+- Renaud Scheifler
+- Gilles Bourgoin
+- Pauline Vuarin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2024-02-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.ecolind.2024.111720"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,23 +34,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Ecological Indicators* 159, 111720"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Most chemical elements are crucial for life maintenance, but the intake of non-essential elements or inadequate concentrations of essential ones can have major consequences on wildlife health. However, concentrations of minor and trace elements remain largely unknown in free-ranging animals. This study aimed to establish the first reference values for 22 essential (Ca, Co, Cr, Cu, Fe, K, Mg, Mn, Mo, Na, Ni, Se, Zn) and non-essential (Al, As, Cd, Hg, Pb, Sb, Sr, Ti, Tl) elements in roe deer hair (*Capreolus capreolus*), to assess the degree of covariation between elements, and to investigate how individual characteristics and environmental context influence minor and trace element profiles. To do so, 758 hair samples from 542 individuals were collected between 2016 and 2019 in five roe deer populations (i.e. Ain, Chizé, Châteauvillain-Arc-en-Barrois, Jura and Trois-Fontaines) inhabiting contrasted habitats in France. Compared to the scarce literature on minor and trace elements in roe deer hair, concentrations were generally lower, and correlations between elements were mostly positive. Element concentrations were also heterogeneously distributed among populations, with overall greater heterogeneity in two (i.e. Jura and Châteauvillain-Arc-en-Barrois) of the five populations, which could be explained by their specific environmental characteristics (e.g. vegetation, climate, altitude). Overall, minor and trace element concentrations did not differ according to age and sex. Further studies on element bioavailability are needed to clarify whether the observed heterogeneity of element concentrations in roe deer hair is primarily driven by individual or by geographical characteristics.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
-- Source Themes
-featured: false
+- New articles
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1470160X24001778/pdfft?md5=1cd262a352c90a7e6ef089570662810d&pid=1-s2.0-S1470160X24001778-main.pdf'
+url_code: 'https://www.sciencedirect.com/science/article/pii/S1470160X24001778?via%3Dihub'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +61,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -63,13 +79,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
