@@ -10,7 +10,7 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 fr:
-  languageCode: fr
+  languageCode: fr-FR
   contentDir: content/fr
   title: French website title...
   params:
