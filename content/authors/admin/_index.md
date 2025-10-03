@@ -138,12 +138,15 @@ skills:
         icon: chart-bar
       - name: Field
         description: Roe deer capture/marking, blood sampling (animal experimental designer), ecography, telemetry
-        icon: tree
+        icon: bug-ant
+      - name: Lab
+        description: Biochemistry (colorimetric assays), histology, cell culture, ...
+        icon: beaker
       - name: Communication
         description: Representative of the lab's doctoral students, organizer of student seminars, Déclics, Festival 'Les Echappées Inattendues' of the CNRS
       - name: MOOC Certifications
         description: MOOC Nature for City LIFE, Scientific integrity
-        icon: chalkboard-teacher
+        icon: academic-cap
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -153,16 +156,16 @@ skills:
         icon: person-simple-walk
       - name: Running
         description: ''
-        icon: person-simple-run
+        icon: person-simple-walk
       - name: Tango
         description: ''
-        icon: disco-ball
+        icon: musical-note
       - name: Ski
         description: ''
-        icon: person-simple-ski
+        icon: heart
       - name: Trips
         description: 'Europe, Argentina, Mauritius, Morocco'
-        icon: globe-hemisphere-west
+        icon: globe-europe-africa
 
 languages:
   - name: French
