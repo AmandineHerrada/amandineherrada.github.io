@@ -7,7 +7,7 @@ event_url: https://www.rhone-auvergne.cnrs.fr/fr/evenement/les-conferences-embar
 location: Parc de la Tête d'Or, Lyon
 
 summary: Speed-dating between scientists and the general public on a boat. During the course of an afternoon, come and talk to interested people about your research in the middle of the Tête d'Or lake in Lyon.
-abstract: 'Speed-dating between scientists and the general public on a boat. During the course of an afternoon, come and talk to interested people about your research in the middle of the Tête d'Or lake in Lyon.'
+abstract: 'Speed-dating between scientists and the general public on a boat. During the course of an afternoon, come and talk to interested people about your research in the middle of a lake in Lyon.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
