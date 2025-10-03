@@ -12,8 +12,6 @@ authors:
 - Emmanuelle Gilot-Fromont
 - Benjamin Rey
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2024-12-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.cbpa.2024.111750"
 
