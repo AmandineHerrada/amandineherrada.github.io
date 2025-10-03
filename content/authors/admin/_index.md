@@ -143,7 +143,7 @@ skills:
         description: Biochemistry (colorimetric assays), histology, cell culture, ...
         icon: beaker
       - name: Communication
-        description: Representative of the lab's doctoral students, organizer of student seminars, Déclics, Festival 'Les Echappées Inattendues' of the CNRS
+        description: Representative of the lab's doctoral students, organizer of student seminars, Déclics, Festival 'Les Echappées Inattendues' of the CNRS, 'Les Conférences Embarquées'
       - name: MOOC Certifications
         description: MOOC Nature for City LIFE, Scientific integrity
         icon: academic-cap
