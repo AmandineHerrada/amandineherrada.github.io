@@ -33,7 +33,7 @@ summary: ''
 
 tags:
 - New articles
-featured: true
+featured: false
 
 # links:
 # - name: ""

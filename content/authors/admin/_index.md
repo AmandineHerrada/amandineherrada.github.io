@@ -19,7 +19,7 @@ role: PhD student
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:amandine.herrada@univ-lyon1.fr'
+    url: 'mailto:amandine.aldrian@yahoo.fr'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/amandineherrada
@@ -144,6 +144,7 @@ skills:
         icon: beaker
       - name: Communication
         description: Representative of the lab's doctoral students, organizer of student seminars, Déclics, Festival 'Les Echappées Inattendues' of the CNRS, 'Les Conférences Embarquées'
+        icon: chat-bubble-left-right
       - name: MOOC Certifications
         description: MOOC Nature for City LIFE, Scientific integrity
         icon: academic-cap
