@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1095643324001776/pdfft?md5=a29147f0130a0cf5a9f628c83642ee04&pid=1-s2.0-S1095643324001776-main.pdf'
+url_pdf: 'https://www.researchgate.net/publication/384280605_Haemolysis_overestimates_plasma_oxidative_stress_biomarkers_in_a_free-ranging_mammal_The_case_of_roe_deer'
 url_code: 'https://www.sciencedirect.com/science/article/pii/S1095643324001776?via%3Dihub'
 url_dataset: ''
 url_poster: ''
