@@ -42,8 +42,6 @@ abstract: Most chemical elements are crucial for life maintenance, but the intak
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- New articles
 featured: true
 
 # links:

@@ -32,8 +32,6 @@ abstract: Quantifying oxidative stress has garnered extensive interest in evolut
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- New articles
 featured: true
 
 # links:
