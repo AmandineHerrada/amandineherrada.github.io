@@ -39,6 +39,7 @@ interests:
   - Oxidative stress
   - Toxic metals
   - Terrestrial mammals
+{style="color: white"}
 
 education:
   - area: International Master in Biodiversity, Ecology and Evolution
