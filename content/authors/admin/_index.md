@@ -24,9 +24,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/amandineherrada
   - icon: brands/linkedin
-    url: https://www.linkedin.com/amandine-herrada
+    url: https://www.linkedin.com/in/amandine-herrada/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=mjBvHcAAAAAJ&hl=fr
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Amandine-Herrada
   - icon: academicons/orcid

@@ -6,11 +6,11 @@ event: Conferences
 location: Europe
 
 summary: All past and coming conferences where I present a poster or slides.
-abstract: 'All past and coming conferences where I present a poster or slides:
+abstract: 'All past and coming conferences where I present a poster or slides:<br />
 - 15th seminar in Ecology & Behavior, Strasbourg 2022 (Poster)<br />
-- CEPA6, Tours 2023 (Oral presentation)
-- NSO, Lund 2024 (Oral presentation)
-- SFE², Lyon 2024 (Oral presentation)
+- CEPA6, Tours 2023 (Oral presentation)<br />
+- NSO, Lund 2024 (Oral presentation)<br />
+- SFE², Lyon 2024 (Oral presentation)<br />
 - SEB, Antwerp 2025 (Oral presentation)'
 
 # Talk start and end times.
