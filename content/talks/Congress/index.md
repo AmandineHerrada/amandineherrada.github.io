@@ -8,10 +8,11 @@ location: Europe
 summary: All past and coming conferences where I present a poster or slides.
 abstract: 'All past and coming conferences where I present a poster or slides:<br />
 - 15th seminar in Ecology & Behavior, Strasbourg 2022 (Poster)<br />
-- CEPA6, Tours 2023 (Oral presentation)<br />
-- NSO, Lund 2024 (Oral presentation)<br />
-- SFE², Lyon 2024 (Oral presentation)<br />
-- SEB, Antwerp 2025 (Oral presentation)'
+- CEPA6, Tours, France 2023 (Oral presentation)<br />
+- NSO, Lund, Sweden, 2024 (Oral presentation)<br />
+- SFE², Lyon, France, 2024 (Oral presentation)<br />
+- SEB, Antwerp, Belgium, 2025 (Oral presentation)<br />
+- Invited speaker at the Centro Austral de Investigaciones Cientificas (CADIC-CONICET), Ushuaïa, Argentina, 2026'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
