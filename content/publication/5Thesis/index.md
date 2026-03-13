@@ -4,7 +4,7 @@ authors:
 - admin
 author_notes:
 date: "2025-11-28T00:00:00Z"
-doi: "https://theses.fr/2025LYO10274"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
