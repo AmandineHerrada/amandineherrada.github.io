@@ -19,7 +19,7 @@ authors:
 - Pauline Vuarin
 author_notes:
 date: "2025-09-04T00:00:00Z"
-doi: "https://doi.org/10.22541/au.175697692.28236644/v1"
+doi: "https://doi.org/10.22541/au.175697692.28236644/v2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

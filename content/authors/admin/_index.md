@@ -182,11 +182,8 @@ languages:
 ---
 ## About Me
 
-My thesis lies at the intersection of ecology, toxicology, and physiology. I am particularly focused on understanding how low-level and long-term exposure to environmental contaminants, especially toxic metals, affects redox homeostasis and survival in long-lived wild mammals.
+My work lies at the intersection of ecophysiology, ecotoxicology, and biodemography. I am particularly focused on understanding how exposure to anthropogenic stressors affects wildlife physiology and population dynamics.
 {style="color: white"}
 
 I combine field data from individually monitored populations, physiological assays, and statistical modeling to assess the long-term impacts of pollution on wildlife health and fitness.
-{style="color: white"}
-
-My main study species is the roe deer (*Capreolus capreolus*), with a focus on two intensively monitored populations in France.
 {style="color: white"}
