@@ -3,8 +3,6 @@ title: Conferences
 
 event: Conferences
 
-location: Europe
-
 summary: All past and coming conferences where I present a poster or slides.
 abstract: 'All past and coming conferences where I present a poster or slides:<br />
 - 15th seminar in Ecology & Behavior, Strasbourg 2022 (Poster)<br />
