@@ -30,7 +30,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Authorea*"
+publication: "*Authorea (preprint)*"
 publication_short: ""
 
 abstract: Redox homeostasis, i.e. the balance between oxidative damage and antioxidant defences, is crucial for overall physiological function. Disrupting this balance may lead to oxidative stress. Non-essential metals (e.g. lead, cadmium) exhibit toxicity even at low concentrations and can increase the production of pro-oxidant molecules and impair antioxidant mechanisms. While the adverse effects of acute exposure are well documented, little is known about the impact of chronic, low-level exposure in the wild. Here, we investigated the relationship between toxic metal exposure and redox status in two roe deer populations (Capreolus capreolus), while accounting for the potential modulation by essential metals (e.g. selenium, zinc) and local weather conditions. We measured the concentrations of nine non-essential and thirteen essential metals, and assessed the oxidative status through seven biomarkers. Our findings revealed an elevation of oxidative damage (malondialdehyde and protein carbonyl levels, and reactive oxygen metabolites), and a depletion of an enzymatic antioxidant (SOD activity) but an increase in total antioxidant capacity, with increasing toxic metal content. While essential metals did not modulate these effects, individuals that had experienced higher temperatures or rainfall recently, exhibited stronger responses. Our study raises concerns regarding the broader consequences of chronic exposure to toxic metals for wildlife health and, ultimately, population dynamics.
