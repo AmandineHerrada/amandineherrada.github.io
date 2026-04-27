@@ -46,7 +46,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: 'https://www.researchgate.net/publication/395276183_Unravelling_the_relative_contribution_of_toxic_metals_to_redox_homeostasis_in_wild_roe_deer'
-url_code: 'https://www.authorea.com/users/963154/articles/1331903-unravelling-the-relative-contribution-of-toxic-metals-to-redox-homeostasis-in-wild-roe-deer?commit=560723fb1df9df0247960b03b40133472746bf60'
+url_code: 'https://doi.org/10.5281/zenodo.17867014'
 url_dataset: ''
 url_poster: ''
 url_project: ''

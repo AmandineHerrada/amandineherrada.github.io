@@ -1,5 +1,5 @@
 ---
-title: "Haemolysis overestimates plasma oxidative stress biomarkers in free-ranging roe deer"
+title: "Exposure to toxic trace metals is negatively associated with testis mass in wild male roe deer"
 authors:
 - Pauline Vuarin
 - Benjamin Rey
