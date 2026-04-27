@@ -11,7 +11,7 @@ authors:
 - Rebecca Garcia
 - Paul Revelli
 - Barbara Vuillaume
-- Jean-Michel Gaillard1
+- Jean-Michel Gaillard
 author_notes:
 date: "2026-04-04T00:00:00Z"
 doi: ""
